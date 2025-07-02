@@ -1,4 +1,4 @@
-# Designing-a-Web-Page-EPAM-MIDDLE-
+# Designing-a-Web-Page-EPAM-MIDDLE
 # Social Network Registration Form
 
 ## Overview
